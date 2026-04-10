@@ -217,7 +217,7 @@
 }
 
 .filter__saturate {
-  filter: saturate(500%);
+  filter: saturate(500%) contrast(550%);
 }
 
 .button__save {
